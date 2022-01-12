@@ -1,0 +1,10 @@
+.TestimonialSection {
+    padding:10px;
+    margin: 50px auto;
+    background-color: rgba(0,0,0,0.3);
+}
+
+.testimonialSectionInner {
+    display: flex;
+    background-color: rgba(200,150,200,0.3);
+}

@@ -1,0 +1,39 @@
+.TestimonialCard {
+    width: 100%;
+    padding: 10px;
+}
+
+.testimonialCardInner {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin: 0 auto;
+    background-color: #e0e0ff;
+}
+
+.testimonialImage {
+  width: 100%;
+  max-width: 360px;
+  flex: 1;
+}
+
+.testimonialImage > img {
+    width: 100%;
+    height: auto;
+}
+
+.testimonalInfo {
+   width: 100%;
+   padding: 20px;
+}
+
+.testimonialBio {
+    width: 100%;
+    padding: 0 20px;
+}
+
+.testimonialBio > p {
+    width: 100%;
+}
+
